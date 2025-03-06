@@ -25,7 +25,7 @@ This demo showcases how to use AI Builders prebuilt drivers license model to ext
 
 	[AI Builder Samples](files/AIBuilderSamples_1_0_0_3.zip)
 
-2. Import the solution into your Power Platform environment
+2. Import the solution into your Power Platform environment 
 
 3. Run the ```DriversLicenseCanvasApp``` app in the solution
 
